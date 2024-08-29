@@ -1,0 +1,14 @@
+D:\VS Project\Win-ProcessViewer\Win-ProcessViewer\bin\Debug\net8.0\Win-ProcessViewer.exe
+D:\VS Project\Win-ProcessViewer\Win-ProcessViewer\bin\Debug\net8.0\Win-ProcessViewer.deps.json
+D:\VS Project\Win-ProcessViewer\Win-ProcessViewer\bin\Debug\net8.0\Win-ProcessViewer.runtimeconfig.json
+D:\VS Project\Win-ProcessViewer\Win-ProcessViewer\bin\Debug\net8.0\Win-ProcessViewer.dll
+D:\VS Project\Win-ProcessViewer\Win-ProcessViewer\bin\Debug\net8.0\Win-ProcessViewer.pdb
+D:\VS Project\Win-ProcessViewer\Win-ProcessViewer\obj\Debug\net8.0\Win-ProcessViewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Project\Win-ProcessViewer\Win-ProcessViewer\obj\Debug\net8.0\Win-ProcessViewer.AssemblyInfoInputs.cache
+D:\VS Project\Win-ProcessViewer\Win-ProcessViewer\obj\Debug\net8.0\Win-ProcessViewer.AssemblyInfo.cs
+D:\VS Project\Win-ProcessViewer\Win-ProcessViewer\obj\Debug\net8.0\Win-ProcessViewer.csproj.CoreCompileInputs.cache
+D:\VS Project\Win-ProcessViewer\Win-ProcessViewer\obj\Debug\net8.0\Win-ProcessViewer.dll
+D:\VS Project\Win-ProcessViewer\Win-ProcessViewer\obj\Debug\net8.0\refint\Win-ProcessViewer.dll
+D:\VS Project\Win-ProcessViewer\Win-ProcessViewer\obj\Debug\net8.0\Win-ProcessViewer.pdb
+D:\VS Project\Win-ProcessViewer\Win-ProcessViewer\obj\Debug\net8.0\Win-ProcessViewer.genruntimeconfig.cache
+D:\VS Project\Win-ProcessViewer\Win-ProcessViewer\obj\Debug\net8.0\ref\Win-ProcessViewer.dll
